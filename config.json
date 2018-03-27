@@ -1,0 +1,19 @@
+{
+    "router": {
+        "SSID": "ihome_devices",
+        "password": "ihomedevices"
+
+    },
+    "server": {
+        "host": "ihome.local",
+        "httpPort": 1081,
+        "httpsPort": 1080,
+        "httpMqtt": 1082,
+        "websocketPort": 443,
+        "ip":"192.168.0.8"
+    },
+    "auth": {
+        "username": "ihome",
+        "password": "ihome"
+    }
+}

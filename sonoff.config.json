@@ -1,0 +1,13 @@
+{
+    "router": {
+        "SSID": "Parawebs Co.",
+        "password": "parawebsca" 
+        
+    },
+    "server": {
+        "IP": "192.168.0.10",
+        "httpPort": 1081,
+        "httpsPort": 1080,
+        "websocketPort": 443
+    }
+}
